@@ -1,0 +1,336 @@
+.nav-link{
+
+    color: #2196F3!important;
+    font-size: 20px;
+}
+h3{
+    color: #2196F3;
+     text-shadow: 2px 2px 4px #2196F3;
+    
+}
+.navis{
+
+    margin-left: 400px;
+    
+}
+.second{
+    margin-top: 20px;
+    background-color: #BBDEFB !important;
+    
+    
+}
+.first{
+    
+}
+.slidy{
+    margin-top: 10px;
+}
+.moni{
+    
+}
+.mid{
+    margin-top: 20px;
+    background-color: white;
+}
+.para{
+    text-align: justify;
+    color: black;
+    opacity: 0.9;
+}
+.head{
+    color: black;
+    text-decoration: underline;
+}
+.head b{
+    color: blue;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: ;
+
+}
+li:hover{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+#karachi{
+    color: cornflowerblue;
+}
+h4{
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+
+}
+h6{
+    color: #64B5F6;
+    text-decoration: underline;
+    border-bottom: 5px dotted brown;
+}
+footer{
+    background-color: #64B5F6;
+    margin-top: 30px;
+
+}
+.foot{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+div b{
+    margin-left: 10px;
+}
+div i{
+    margin-left: 10px;
+}
+div h5{
+    color: cornsilk;
+    text-decoration: underline;
+}
+.dad{
+    color: #A7FFEB;
+}
+.fomi{
+    color:#558B2F;
+    text-align: center;
+    border: 5px solid black;
+    box-shadow: 2px 2px 4px blue;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: large;
+    background-color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.fotv{
+    font-size: larger;
+    color: chocolate;
+    background-color: cornsilk;
+    text-align: center;
+
+    
+}
+.last{
+    background-color: black;
+    color: red;
+}
+.head{
+    
+    /* margin-top: 20%; */
+    color: blanchedalmond;
+    padding-top: 10%;
+}
+
+
+#imagi{
+    margin-top: 100px;}
+
+
+ .menu{
+    margin-left: 100px;
+ }  
+ #sec{
+     margin-top: 20px;
+ } 
+.dropdown{
+    margin-left: 100px;
+}
+.fari{
+
+    margin-left: -1px;
+}
+.fari:hover{
+    background-color: black;
+    border: 5px solid;
+    border-radius: 25px;
+  
+}
+
+
+
+.drop{
+
+   margin-left: 280px;
+   
+
+}
+
+.seci{
+    margin-top: 10px;
+    background-color:#A7FFEB !important ;
+    
+    
+
+    
+}
+.firdi{
+    background-color:
+    #E0E0E0 !important;
+}
+.slider{
+    margin-top: 20px;
+}
+*#footi{
+
+    font-size: 35px;
+    text-align: right;
+    margin-left: 0px;
+    position: relative;
+    bottom: 55px;
+    background-image: url(images2/back.jpg);
+
+
+}
+
+.imad{
+    width: 100%;
+    height:402px;
+    margin-top: 10px;
+}
+.maini{
+
+    margin-top: 10px;
+    
+}
+.world{
+    margin-top: 20px;
+}
+.headi{
+    font-size: 27px;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px black;
+    color: #64B5F6
+}
+
+.headi i{
+    color:;
+}
+.child{
+    color: black;
+    font-size: 35px;
+    font-weight: bolder;
+    text-shadow: 0px 0px 4px;
+}
+.pero{
+
+    background-image: url(images1/bg.jpg);
+    color:rgb(190, 160, 187);
+}
+.headii{
+    font-weight: bolder;
+    color: royalblue;
+    font-size: xx-large;
+    text-shadow: 2px 3px 5px yellowgreen;
+    text-decoration: underline;
+}
+.side li{
+    border-bottom: 2px dotted rgb(190, 160, 187);
+    list-style-type: none;
+}
+
+.want{
+    font-size: xx-large;
+    font-weight: bolder;
+    border-bottom: 2px solid #64B
+    5F6;
+}
+#board{
+    color:black;
+    font-size: xx-large;
+}
+
+#national{
+    color: black;
+}
+.lead:hover{
+    opacity: 0.8;
+}
+
+.modal-title{
+    color: black;
+    text-shadow: 2px 2px 8px blue;
+    font-weight: bolder;
+    
+}
+.imj{
+    margin-bottom: 5px;
+    margin-right: -5px;
+}
+.pics{
+    margin-top: 10px;
+    
+}
+.imj:hover{
+    box-shadow: 2px 2px 8px white;
+    opacity: 0.5;
+
+
+}
+.imk{
+
+    margin-right: px;
+}
+.ijk:hover{
+    box-shadow: -5px -5px 10px black;
+}
+.ipsum{
+    text-align: center;
+    margin-top: 20px;
+}
+.fa-phone{
+    font-size: 50px;
+}
+.fa-map-marker{
+
+
+    font-size: 50px;
+    color: #1976D2;
+
+
+}
+.fa-envelope{
+    color: #1976D2 ;
+    font-size: 50px;
+}
+
+
+.fa-facebook{
+    color: #1976D2 ;
+    font-size: 50px;
+
+}
+.use{
+    border: 0px;
+    color:#1976D2 ;
+    background-color: #A7FFEB;
+
+    
+}
+.button{
+    background-color:#A7FFEB;
+    color:#1976D2 ;
+    margin-left: 105px;
+    margin-bottom: 20px;
+
+}
+.mail{
+    background-color:#1976D2 ;
+}
+
+.button1{
+    /* background-color:#A7FFEB; */
+    color: ;
+    margin-left: 100px;
+    margin-bottom: 20px;
+
+}
+.button2{
+    background-color:#D50000;
+    color: ;
+    margin-left: 108px;
+    margin-bottom: 20px;
+
+}
